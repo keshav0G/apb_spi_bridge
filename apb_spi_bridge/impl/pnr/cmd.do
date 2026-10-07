@@ -1,0 +1,17 @@
+-d D:\code\verilog\apb_spi\apb_spi_bridge\impl\gwsynthesis\apb_spi_bridge.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst D:\code\verilog\apb_spi\apb_spi_bridge\src\apb_spi_bridge.cst
+-cfg D:\code\verilog\apb_spi\apb_spi_bridge\impl\pnr\device.cfg
+-sdc D:\code\verilog\apb_spi\apb_spi_bridge\src\apb_spi_bridge.sdc
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-place_option 0
+-route_option 0
+-clock_route_order 0
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000

@@ -1,0 +1,38 @@
+[
+ {
+  "InstFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/Fpga_wrapper.v",
+  "InstLine" : 4,
+  "InstName" : "fpga_top",
+  "ModuleFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/Fpga_wrapper.v",
+  "ModuleLine" : 4,
+  "ModuleName" : "fpga_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/Fpga_wrapper.v",
+    "InstLine" : 38,
+    "InstName" : "u_apb_spi",
+    "ModuleFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/apb_spi_top.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "apb_spi_top",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/apb_spi_top.v",
+      "InstLine" : 57,
+      "InstName" : "u_apb_slave",
+      "ModuleFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/apb_slave.v",
+      "ModuleLine" : 3,
+      "ModuleName" : "apb_slave"
+     },
+     {
+      "InstFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/apb_spi_top.v",
+      "InstLine" : 87,
+      "InstName" : "u_spi_master",
+      "ModuleFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/spi_master.v",
+      "ModuleLine" : 3,
+      "ModuleName" : "spi_master"
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,29 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/apb_slave.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/spi_master.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/apb_spi_top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/code/verilog/apb_spi/apb_spi_bridge/src/Fpga_wrapper.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/code/verilog/apb_spi/apb_spi_bridge/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

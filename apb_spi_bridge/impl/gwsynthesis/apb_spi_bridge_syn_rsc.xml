@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="fpga_top" Register="4" Lut="9" T_Register="45(4)" T_Alu="15(0)" T_Lut="52(9)">
+ <SubModule name="u_apb_spi" T_Register="41(0)" T_Alu="15(0)" T_Lut="43(0)">
+  <SubModule name="u_apb_slave" Register="8" Lut="5" T_Register="8(8)" T_Lut="5(5)"/>
+  <SubModule name="u_spi_master" Register="33" Alu="15" Lut="38" T_Register="33(33)" T_Alu="15(15)" T_Lut="38(38)"/>
+ </SubModule>
+</Module>
